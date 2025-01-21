@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-  <a href="https://www.imghippo.com/i/ZK4zy1722288141.jpg" title="Project Screenshot" target="_blank">
+  <!-- <a href="https://www.imghippo.com/i/ZK4zy1722288141.jpg" title="Project Screenshot" target="_blank">
     <img src="https://i.imghippo.com/files/ZK4zy1722288141.jpg" width="100%" alt="Project Screenshot"/>
-  </a>
+  </a> -->
   <br />
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="javascript" />
@@ -49,7 +49,7 @@ This project is deeply personal to me. My grandmother recently passed away from 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mendsalbert/beat-cancer.git
+   git clone https://github.com/Augnik03/Advaya.git
    cd beat-cancer
    ```
 
