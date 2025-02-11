@@ -1,9 +1,9 @@
 <div align="center">
   
   
-  <h3 align="center">AI Cancer Care (BeatCancer: AI Assistant to Craft Personalized Cancer Care)</h3>
+  <h3 align="center">AI HealthCare (Advaya: AI Assistant to Craft Personalized HealthCare)</h3>
   <div align="center">
-    Welcome to the AI Cancer Care project, a revolutionary AI assistant designed to provide personalized cancer care by analyzing patient data, guidelines, and medical records. Our goal is to identify screening gaps and create tailored treatment plans to improve patient outcomes.
+    Welcome to the AI Cancer Healthcare project, a revolutionary AI assistant designed to provide personalized health care by analyzing patient data, guidelines, and medical records. Our goal is to identify screening gaps and create tailored treatment plans to improve patient outcomes.
   </div>
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🤖 Introduction
 
-AI Cancer Care provides an easy and efficient way to craft personalized cancer care using AI. It interacts with the Gemini AI to analyze and generate detailed treatment plans based on patient data and medical records.
+AI Health Care provides an easy and efficient way to craft personalized cancer care using AI. It interacts with the Gemini AI to analyze and generate detailed treatment plans based on patient data and medical records.
 
 ## 🔋 Features
 
