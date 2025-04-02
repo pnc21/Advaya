@@ -12,7 +12,7 @@ import RecordDetailsHeader from "./components/record-details-header";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 //const geminiApiKey = import.meta.env.VITE_GEMINI_API_KEY; // VITE_GEMINI_API_KEY=your_key_here
-const geminiApiKey = 'AIzaSyBLgqcYLTRKRoZ_O0ofpglYn52Yxt_LM-k'
+const geminiApiKey = 'your_key_here'
  
 
 function SingleRecordDetails() {s
