@@ -11,10 +11,11 @@ import FileUploadModal from "./components/file-upload-modal";
 import RecordDetailsHeader from "./components/record-details-header";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-// const geminiApiKey = import.meta.env.VITE_GEMINI_API_KEY;
-const geminiApiKey = 'Your gemini access key'
+//const geminiApiKey = import.meta.env.VITE_GEMINI_API_KEY; // VITE_GEMINI_API_KEY=your_key_here
+const geminiApiKey = 'AIzaSyBLgqcYLTRKRoZ_O0ofpglYn52Yxt_LM-k'
+ 
 
-function SingleRecordDetails() {
+function SingleRecordDetails() {s
   const { state } = useLocation();
   const navigate = useNavigate();
   const [file, setFile] = useState(null);
@@ -179,13 +180,13 @@ function SingleRecordDetails() {
                   <h2 className="text-xl font-semibold text-neutral-200    dark:text-gray-800">
                     Personalized AI-Driven Treatment Plan
                   </h2>
-                  <p className="text-sm text-gray-600   dark:text-neutral-400">
+                  <p className="text-sm  text-neutral-400 dark:text-gray-600 ">
                     A tailored medical strategy leveraging advanced AI insights.
                   </p>
                 </div>
-                <div className="flex w-full flex-col px-6 py-4 text-white">
+                <div className="flex w-full flex-col px-6 py-4 text-slate-700">
                   <div>
-                    <h2 className="text-lg font-semibold text-white  dark:text-gray-800">
+                    <h2 className="text-lg font-semibold text-gray-800  dark:text-white">
                       Analysis Result
                     </h2>
                     <div className="space-y-2">

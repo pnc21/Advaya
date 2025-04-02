@@ -19,7 +19,7 @@ const FileUploadModal = ({
       onAction={onFileUpload}
       actionLabel="Upload and Analyze"
     >
-      <div className="flex w-full flex-col items-center justify-center gap-2 rounded-xl border border-dashed border-slate-300 p-8 text-slate-700 dark:border-slate-700 dark:text-slate-300">
+      <div className="flex w-full flex-col items-center justify-center gap-2 rounded-xl border border-dashed border-slate-700 p-8 text-slate-300 dark:border-slate-300 dark:text-slate-700">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 24 24"
@@ -61,7 +61,7 @@ const FileUploadModal = ({
       {uploadSuccess && (
         <p className="mt-2 text-green-600">Upload successful!</p>
       )}
-      <span className="text-md text-left text-white">{filename}</span>
+      <span className="text-md text-left text-slate-700">{filename}</span>
     </Modal>
   );
 };
