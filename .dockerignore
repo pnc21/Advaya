@@ -1,0 +1,20 @@
+# Ignore node_modules everywhere
+node_modules
+
+# Ignore any build output
+dist
+.next
+build
+
+# Git & IDE stuff
+.git
+.vscode
+*.log
+
+
+node_modules
+.git
+.vscode
+dist
+*.logdocker build -t advaya-app -f client/Dockerfile ./client
+
