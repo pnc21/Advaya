@@ -18,6 +18,9 @@ jobs:
         with:
           node-version: 18
 
+      - name: Debug working directory (optional)
+        run: ls -R
+
       - name: Install dependencies
         run: npm install
         working-directory: ./client
