@@ -38,7 +38,7 @@ AI Health Care provides an easy and efficient way to craft personalized cancer c
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Augnik03/Advaya.git
+   git clone [https://github.com/pnc21/Advaya.git]
    cd Advaya
    ```
 
